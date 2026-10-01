@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://download8hi.com
+Sitemap: https://download8hi.com/sitemap.xml
